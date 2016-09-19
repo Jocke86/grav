@@ -1,0 +1,24 @@
+1474895359
+a:2:{s:7:"content";s:592:"<hr />
+<h2>title: Slider Content
+routable: true
+visible: true
+lightslider:
+slider_type: text
+type_text_vertical_padding: 70px;
+type_text_horizontal_padding: 50px;
+type_text_brightness: -100
+mode: slide
+pager: 'true'
+controls: 'true'
+keyPress: 'true'
+pause: 2000
+speed: 1000</h2>
+<h1>Shop Geek Stuff</h1>
+<h2>We have all your <strong>geek</strong> needs covered..</h2>
+<hr />
+<h1>SnipCart Powered</h1>
+<h2><strong>Grav</strong> plus <strong>SnipCart</strong> equals easy shopping</h2>
+<hr />
+<h1>A Huge Variety</h1>
+<h2>A great selection of <strong>bits</strong> and <strong>bobs</strong></h2>";s:12:"content_meta";N;}
